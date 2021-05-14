@@ -1,11 +1,11 @@
-package com.br.estoqueadm
+package com.br.stockadm
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class EstoqueadmApplication
+class StockadmApplication
 
 fun main(args: Array<String>) {
-	runApplication<EstoqueadmApplication>(*args)
+	runApplication<StockadmApplication>(*args)
 }

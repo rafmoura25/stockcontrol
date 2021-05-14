@@ -1,4 +1,4 @@
-package com.br.estoqueadm.web
+package com.br.stockadm.web
 
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration

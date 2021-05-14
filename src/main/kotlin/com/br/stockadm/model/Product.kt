@@ -1,4 +1,4 @@
-package com.br.estoqueadm.model
+package com.br.stockadm.model
 
 import com.fasterxml.jackson.annotation.JsonBackReference
 import javax.persistence.*

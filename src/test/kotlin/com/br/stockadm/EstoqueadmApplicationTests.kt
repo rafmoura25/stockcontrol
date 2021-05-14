@@ -1,4 +1,4 @@
-package com.br.estoqueadm
+package com.br.stockadm
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest

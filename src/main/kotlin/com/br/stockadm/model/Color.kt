@@ -1,4 +1,4 @@
-package com.br.estoqueadm.model
+package com.br.stockadm.model
 
 import javax.persistence.Entity
 import javax.persistence.GeneratedValue
